@@ -1,7 +1,10 @@
 package javaprograms;
 
 import java.util.ArrayList;
-
+/**
+ * Made some changes 
+ * @author Sriharika
+ */
 public class Arraylist1 {
 
 	public static void main(String args[]) {

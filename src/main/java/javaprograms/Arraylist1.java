@@ -2,7 +2,8 @@ package javaprograms;
 
 import java.util.ArrayList;
 /**
- * Made some changes 
+ * Made some changes
+ * ...... Some changes done by some other people
  * @author Sriharika
  */
 public class Arraylist1 {

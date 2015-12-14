@@ -1,5 +1,9 @@
 package javaprograms;
-
+/**
+ * 
+ * @author satmuri
+ *
+ */
 public class CreatePrintArray {
 
 	public static void main(String[] args) {

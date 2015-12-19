@@ -26,9 +26,9 @@ public class ReverseArrayElements {
 			System.out.println(arr[i]);
 		}
 		
-		ReverseArrayElements revArr= new ReverseArrayElements();
+		ReverseArrayElements revArray1= new ReverseArrayElements();
 		System.out.println("Output elemts in Array");
-		int[] reverseArr = revArr.revArr(arr);
+		int[] reverseArr = revArray1.revArr(arr);
 		
 		for (int i=0;i<reverseArr.length;i++)
 		{
